@@ -101,3 +101,8 @@ header nav span {
 .contact a {
   text-decoration: none;
 }
+
+footer {
+  text-align: left;
+  padding-left: 20px;
+}
