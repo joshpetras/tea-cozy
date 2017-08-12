@@ -71,6 +71,22 @@ header nav span {
   width: 100%;
 }
 
+#products {
+  width: 1000px;
+  padding: 70px 0px;
+}
+
+.product {
+  padding: 5px;
+}
+
+.product img {
+  display: block;
+  height: 200px;
+  width: 300px;
+  margin: 10px 10px;
+}
+
 #locations {
   background-image: url("../images/img-locations-background.jpg");
   height: 500px;
