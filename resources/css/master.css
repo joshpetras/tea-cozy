@@ -54,7 +54,6 @@ header nav span {
 /* main content section */
 
 .main {
-  border: 1px solid cyan;
   padding-top: 69px;
   width: 1200px;
   margin: auto;
@@ -93,4 +92,12 @@ header nav span {
   width: 300px;
   padding: 10px 0px;
   opacity: 1;
+}
+
+.contact {
+  height: 200px;
+}
+
+.contact a {
+  text-decoration: none;
 }
